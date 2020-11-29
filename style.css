@@ -38,6 +38,8 @@ body {
     background: white;
     text-align: left;
     vertical-align: top;
+	float: left;
+	width: 1118px;
 }
 
 #layout-menu a {
@@ -366,7 +368,6 @@ table.imgtable, table.imgtable td {
    margin-bottom: 20px;
 }
 .life_pic img{
-   margin-left: 156px;
    margin-top: 6px;
    width: 800px;
 }
@@ -418,4 +419,29 @@ table.imgtable, table.imgtable td {
 .chengguo{
    margin: 0 auto;
    padding-left: 20px;
+}
+.top_l{
+	float: left;
+	height: 60px;
+	width: 1202px;
+	padding: 0px;
+}
+.top_l h1{
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+.top_l span{
+	color: fuchsia;
+	font-size: 2px;
+	padding-left: 42px;
+}
+.logo{
+	padding-top:10px;
+	width:146px;
+	height:60px;
+	float: left;
+}
+.top{
+	width: 100%;
+	height: 60px;
 }
